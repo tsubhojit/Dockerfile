@@ -2,7 +2,7 @@ FROM  oraclelinux:8.3
 # choosing OL as docker image OS
 #  image we are choosing it must be present in Docker HUB
 # FROM instruction will pull the image from DOCKER HUB
-MAINTAINER  ashutoshh@linux.com
+MAINTAINER  mayank123modi@gmail.com
 # image builder info (optional field)
 RUN  dnf  install python3 -y
 # DNF is an automated installer in OL 
